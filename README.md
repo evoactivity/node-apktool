@@ -1,7 +1,7 @@
 # node-apktool
 A NodeJS wrapper for ApkTool.
 ## Installation
-`npm install --save github:https://github.com/Seyz123/node-apktool`
+`npm install --save github:Seyz123/node-apktool`
 ## Usage
 ### Decompile an APK
 ```js

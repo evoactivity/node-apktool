@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SxClient/node-apktool.git"
+    "url": "git+https://github.com/evoactivity/node-apktool.git"
   },
   "keywords": [
     "nodejs",
@@ -20,7 +20,7 @@
     "lodash": "^4.17.15"
   },
   "bugs": {
-    "url": "https://github.com/SxClient/node-apktool/issues"
+    "url": "https://github.com/evoactivity/node-apktool/issues"
   },
-  "homepage": "https://github.com/SxClient/node-apktool#readme"
+  "homepage": "https://github.com/evoactivity/node-apktool#readme"
 }
